@@ -21,7 +21,7 @@
 
     </style>
 
-    <style name="MaterialDesign" parent="TextAppearance.AppCompat">
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:background">#2196F3</item>
     </style>
