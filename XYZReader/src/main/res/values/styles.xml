@@ -28,6 +28,8 @@
         <item name="colorAccent">@color/theme_accent</item>
 
         <item name="android:windowBackground">@color/theme_primary</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>
